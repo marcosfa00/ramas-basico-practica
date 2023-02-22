@@ -1,4 +1,3 @@
-# RAMAS BASICO
+# RAMAS BASICO EXP
 
-Hago el primer commit A subirndo el readme, y a continuación escribiendo esta linea
-hago el segundo punto Azul B desde esta misma rama :D 
+Ahora estoy editando el alchivo Readme desde la rama exp, lo cual es el siguiente commit C
